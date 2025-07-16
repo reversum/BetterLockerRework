@@ -30,14 +30,14 @@ namespace BetterLockers
 				{
 					item = ItemType.GunCOM15,
 					amount = 1,
-					chance = 100,
+					chance = 20,
 					maxamountinlocker = 1,
 				},
 				new Spawner
 				{
 					item = ItemType.KeycardGuard,
 					amount = 1,
-					chance = 100,
+					chance = 20,
 					maxamountinlocker = 1,
 				}
 			},
