@@ -28,14 +28,14 @@ namespace BetterLockers
 			{
 				new Spawner
 				{
-					item = ItemType.GunCOM15,
+					item = ItemType.GunCOM15.ToString(),
 					amount = 1,
 					chance = 20,
 					maxamountinlocker = 1,
 				},
 				new Spawner
 				{
-					item = ItemType.KeycardGuard,
+					item = ItemType.KeycardGuard.ToString(),
 					amount = 1,
 					chance = 20,
 					maxamountinlocker = 1,
@@ -45,7 +45,7 @@ namespace BetterLockers
 			{
 				new Spawner
 				{
-					item = ItemType.MicroHID,
+					item = ItemType.MicroHID.ToString(),
 					amount = 1,
 					chance = 1,
 					maxamountinlocker = 1,
@@ -55,7 +55,7 @@ namespace BetterLockers
 			{
 				new Spawner
 				{
-					item = ItemType.MicroHID,
+					item = ItemType.MicroHID.ToString(),
 					amount = 1,
 					chance = 100,
 					maxamountinlocker = 1,
