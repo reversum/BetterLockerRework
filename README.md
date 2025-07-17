@@ -14,20 +14,24 @@ locker_spawns:
     chance: 100
     amount: 1
     maxamountinlocker: 1
+    uciitem: false
   - item: KeycardGuard
     chance: 100
     amount: 1
     maxamountinlocker: 1
+    uciitem: false
   LargeGunLocker:
   - item: MicroHID
     chance: 1
     amount: 1
     maxamountinlocker: 1
+    uciitem: false
   ExperimentalWeaponLocker:
   - item: MicroHID
     chance: 100
     amount: 1
     maxamountinlocker: 1
+    uciitem: false
 # Keep this off unless you want your console spammed.
 debug_mode: false
 ```
